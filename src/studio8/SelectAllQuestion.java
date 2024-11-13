@@ -5,6 +5,7 @@ public class SelectAllQuestion extends MultipleChoiceQuestion {
 	public SelectAllQuestion(String prompt, String answer, String[] choices) {
 		//Hint: 1 point per choice
 		//FIXME
+		
 	}
 	
 	public int checkAnswer(String givenAnswer) {
